@@ -12,4 +12,10 @@ int euclid_GCD(int a, int b){
     }
     return a;
 }
+
+/* Другой алгоритм
+ */
+int foo(){
+    return 0;
+}
 ```
